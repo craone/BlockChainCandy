@@ -6,7 +6,7 @@
 :---:|---:|:---|---|:---:|---|:---:
 [BingoBet](https://bingobet.one/?ref=moremoneynow#/luckydraw)|0.0005|EOS|1天|1|抽奖|[https://bingobet.one](https://bingobet.one/?ref=moremoneynow#/luckydraw)
 [EosABC](https://www.eosabc.io/?ref=moremoneynow)|0.0005|EOS|1天|1|抽奖|[https://www.eosabc.io](https://www.eosabc.io/?ref=moremoneynow)
-[EosJoy](https://enbk.io/sign/?ref=moremoneynow)(https://eosjoy.io/?user=moremoneynow#/game/)|5|JOY|1天|1|游戏任务里领取|[https://eosjoy.io](https://eosjoy.io/?user=moremoneynow#/game/)
+[EosJoy](https://eosjoy.io/?user=moremoneynow#/game/)|5|JOY|1天|1|游戏任务里领取|[https://eosjoy.io](https://eosjoy.io/?user=moremoneynow#/game/)
 [Enbk](https://enbk.io/sign/?ref=moremoneynow)|1|ENB|1天|1|签到|[https://enbk.io](https://enbk.io/sign/?ref=moremoneynow)
 [VsBet](https://vsbet.io?i=moremoneynow)|0.1010|EOS|1天|1|抽奖需要 0.1 EOS|[https://vsbet.io](https://vsbet.io?i=moremoneynow)
 [麦子钱包](http://maiziqianbao.net/cn/?utm_source=34j6sy)|0~20|随机|1天|2|抽奖需要下载麦子钱包|[http://maiziqianbao.net](http://maiziqianbao.net/cn/?utm_source=34j6sy)
@@ -24,4 +24,4 @@
 iVoteEos|EOS|1.2%|[https://ivoteeos.io](https://ivoteeos.io/?ref=moremoneynow)
 
 
-*施舍博主：EOS:moremoneynow*
+*博主：EOS:moremoneynow,欢迎在issue里提交新地址。*
