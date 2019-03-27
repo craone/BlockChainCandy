@@ -1,7 +1,7 @@
 # EOS 定期整理更新中 欢迎收藏
 > 真正的糖果，乃秒到钱包，其它都扯犊子！
 
-## 撸羊毛 
+## 羊毛币 
 > 注意保护密钥!注意保护密钥!注意保护密钥!重要的事情说三次，请使用钱包直接打开本页进行签名操作.
 
 名称|数量|币种|时间|次数|备注|网址
@@ -29,6 +29,8 @@
 [HIG](https://hi.gold/claim?referrer=moremoneynow)|10|HIG|1次|1|签到|[https://hi.gold](https://hi.gold/claim?referrer=moremoneynow)
 [BuckBWallet](https://b.a.5d7rm.cn/?hbUuid=dec10a037cbf45c591f981148ce5d6e9&share_id=anonymoususe)|0.09|EOS|1次|1|APP绑定|[https://www.buckwallet.vip](https://b.a.5d7rm.cn/?hbUuid=dec10a037cbf45c591f981148ce5d6e9&share_id=anonymoususe)
 
+
+## 分红币
 币种|类型|备注|网址
 ---|---|---|---
 [ENB](https://enbk.io/pledge/?ref=moremoneynow)|糖果| |[https://enbk.io](https://enbk.io/pledge/?ref=moremoneynow)
