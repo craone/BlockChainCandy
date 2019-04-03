@@ -26,10 +26,11 @@
 [Enbk](https://enbk.io/candy/info.aspx?id=1&item=1&ref=moremoneynow)|1|ENB|6小时|1|签到|[https://enbk.io](https://enbk.io/candy/info.aspx?id=1&item=1&ref=moremoneynow)
 [TrustDice](https://trustdice.win/faucet?ref=moremoneynow)|0.0005|EOS|6小时|1|签到|[https://trustdice.win](https://trustdice.win/faucet?ref=moremoneynow)
 [PraBox](https://chain.pro/candybox/#/?ref=moremoneynow)|0.8~50|[选择](https://chain.pro/web-prabox/#/?ref=moremoneynow)|4小时|1|签到|[https://chain.pro](https://chain.pro/candybox/#/?ref=gu4temzqguge)
-[KCash](https://redpacket.hardlink.ren/candy-index.html?symbol=ETH&iconurl=https%3A%2F%2Fapi2.kcash.com%2Ficons%2F3x%2FDISCOVERY%2Fcandy-kcash.png&amount=0&lang=en&token=faee5d0ead574e96a59e74443922c201#/)|0.8~50|随机|每天整点|3|签到|[https://redpacket.hardlink.ren](https://redpacket.hardlink.ren/candy-index.html?symbol=ETH&iconurl=https%3A%2F%2Fapi2.kcash.com%2Ficons%2F3x%2FDISCOVERY%2Fcandy-kcash.png&amount=0&lang=en&token=faee5d0ead574e96a59e74443922c201#/)
+[KCash](https://redpacket.hardlink.ren/candy-index.html?symbol=ETH&iconurl=https%3A%2F%2Fapi2.kcash.com%2Ficons%2F3x%2FDISCOVERY%2Fcandy-kcash.png&amount=0&lang=en&token=faee5d0ead574e96a59e74443922c201#/)|0.8~50|随机|每天整点|3|KCash APP 签到|[https://redpacket.hardlink.ren](https://redpacket.hardlink.ren/candy-index.html?symbol=ETH&iconurl=https%3A%2F%2Fapi2.kcash.com%2Ficons%2F3x%2FDISCOVERY%2Fcandy-kcash.png&amount=0&lang=en&token=faee5d0ead574e96a59e74443922c201#/)
 [More.One](https://myeoscandy.com/register.html?invite_code=688b7ea7)|0.8~50|选择|1天|1|签到|[https://myeoscandy.com](https://myeoscandy.com/register.html?invite_code=688b7ea7)
 [HIG](https://hi.gold/claim?referrer=moremoneynow)|10|HIG|1次|1|签到|[https://hi.gold](https://hi.gold/claim?referrer=moremoneynow)
 [BuckBWallet](https://b.a.5d7rm.cn/?hbUuid=dec10a037cbf45c591f981148ce5d6e9&share_id=anonymoususe)|0.09|EOS|1次|1|APP绑定|[https://www.buckwallet.vip](https://b.a.5d7rm.cn/?hbUuid=dec10a037cbf45c591f981148ce5d6e9&share_id=anonymoususe)
+[lorefree](http://ebook.lorefree.com/)|20|LF|1次|1|登录|[http://ebook.lorefree.com](http://ebook.lorefree.com)
 
 
 ## 分红币
@@ -70,8 +71,8 @@ ChinTai|EOS|自定义|[https://eos.chintai.io](https://eos.chintai.io/?ref=morem
 ## 免费注册EOS账号
 名称|备注|网址
 ---|:---:|---
-[EosABC](https://wallet.eosabc.io/recommend.html?inviter=moremoneynow&lan=zh)| |[https://wallet.eosabc.io](https://wallet.eosabc.io/recommend.html?inviter=moremoneynow&lan=zh)
-[~~BuckBWallet~~](https://www.buckwallet.vip)|已结束|[https://www.buckwallet.vip](https://www.buckwallet.vip)
+[~~EosABC~~](https://wallet.eosabc.io/recommend.html?inviter=moremoneynow&lan=zh)| |[~~https://wallet.eosabc.io~~](https://wallet.eosabc.io/recommend.html?inviter=moremoneynow&lan=zh)
+[~~BuckBWallet~~](https://www.buckwallet.vip)|已结束|[~~https://www.buckwallet.vip~~](https://www.buckwallet.vip)
 [MurMur](https://murmurdapp.com/?inviter=moremoneynow&lan=zh)| |[https://murmurdapp.com](https://murmurdapp.com/?inviter=moremoneynow&lan=zh)
 [EOS Kngihts](https://eosknights.io/?inviter=moremoneynow)|每天前100名|[https://eosknights.io](https://eosknights.io/?inviter=moremoneynow)
 ## 工具
