@@ -10,16 +10,16 @@
 [EosABC](https://www.eosabc.io/?ref=gu4temzqguge)|0.0002|EOS|1天|1|抽奖|[https://www.eosabc.io](https://www.eosabc.io/?ref=gu4temzqguge)
 [EosJoy](https://eosjoy.io/?user=gu4temzqguge#/game/)|5|JOY|1天|1|游戏任务签到|[https://eosjoy.io](https://eosjoy.io/?user=gu4temzqguge#/game/)
 [Enbk](https://enbk.io/sign/?ref=gu4temzqguge)|1|ENB|1天|1|签到|[https://enbk.io](https://enbk.io/sign/?ref=gu4temzqguge)
-[DHB](https://dhb.one?referrer=gu4temzqguge)|18|DHB|1天|1|签到提币|[https://dhb.one/dragontiger](https://dhb.one?referrer=gu4temzqguge)
+[DHB](https://dhb.one/dragontiger?referrer=gu4temzqguge)|18|DHB|1天|1|签到提币|[https://dhb.one](https://dhb.one/?referrer=gu4temzqguge)
 [麦子钱包](http://maiziqianbao.net/cn/?utm_source=34j6sy)|0~20|随机|1天|2|App摇奖|[http://maiziqianbao.net](http://maiziqianbao.net/cn/?utm_source=34j6sy)
-[Endless](https://endless.game/dice?invite=gu4temzqguge)|0.0005|EOS|每天8点后|1|抽奖|[https://endless.game](https://endless.game/dice?invite=gu4temzqguge)
-[One](https://oneplay.io/#ref=gu4temzqguge)|10|ONE|每天8点后|1|签到|[https://oneplay.io](https://oneplay.io/#ref=gu4temzqguge)
+[Endless](https://endless.game/dice?invite=gu4temzqguge)|0.0002|EOS|每天8点后|1|抽奖|[https://endless.game](https://endless.game/dice?invite=gu4temzqguge)
 [WhaleEx](https://ym.whaleex.com.cn/whaleEx/dash/login?inviteCode=U-DHy)|0.5~10|随机|8小时|1|APP签到|[https://ym.whaleex.com.cn](https://ym.whaleex.com.cn/whaleEx/dash/login?inviteCode=U-DHy)
 [KCash](https://redpacket.hardlink.ren/candy-index.html?symbol=ETH&iconurl=https%3A%2F%2Fapi2.kcash.com%2Ficons%2F3x%2FDISCOVERY%2Fcandy-kcash.png&amount=0&lang=en&token=faee5d0ead574e96a59e74443922c201#/)|0.8~50|随机|9,10,18,19,20|3|KCash APP 签到|[https://redpacket.hardlink.ren](https://redpacket.hardlink.ren/candy-index.html?symbol=ETH&iconurl=https%3A%2F%2Fapi2.kcash.com%2Ficons%2F3x%2FDISCOVERY%2Fcandy-kcash.png&amount=0&lang=en&token=faee5d0ead574e96a59e74443922c201#/)
 [More.One](https://myeoscandy.com/register.html?invite_code=688b7ea7)|0.8~50|选择|1天|1|签到|[https://myeoscandy.com](https://myeoscandy.com/register.html?invite_code=688b7ea7)
 [HIG](https://hi.gold/claim?referrer=gu4temzqguge)|10|HIG|1次|1|签到|[https://hi.gold](https://hi.gold/claim?referrer=gu4temzqguge)
 [BuckBWallet](https://b.a.5d7rm.cn/?hbUuid=dec10a037cbf45c591f981148ce5d6e9&share_id=anonymoususe)|0.09|EOS|1次|1|APP绑定|[https://www.buckwallet.vip](https://b.a.5d7rm.cn/?hbUuid=dec10a037cbf45c591f981148ce5d6e9&share_id=anonymoususe)
 [LoreFree](http://ebook.lorefree.com/?ref=gu4temzqguge)|10|LF|20天|1|登录|[http://ebook.lorefree.com](http://ebook.lorefree.com/?ref=gu4temzqguge)
+[~~One~~](https://oneplay.io/#ref=gu4temzqguge)|~~10~~|ONE|每天8点后|1|签到|[~~https://oneplay.io~~](https://oneplay.io/#ref=gu4temzqguge)
 [~~TKC~~](http://app.tokenplanet.net/?isInApp=1&wallet=2)|~~30~~|TKC|1天|1|已结束|[~~http://app.tokenplanet.net~~](http://app.tokenplanet.net/?isInApp=1&wallet=2)
 [~~VsBet~~](https://vsbet.io?i=gu4temzqguge)|~~0.1010~~|EOS|1天|1|已结束|[~~https://vsbet.io~~](https://vsbet.io?i=gu4temzqguge)
 [~~PPDice~~](https://www.ppdice.com/?i=gu4temzqguge)|~~10~~|PPT|1天|1|已结束|[~~https://www.ppdice.com~~](https://www.ppdice.com/?i=gu4temzqguge)
@@ -43,6 +43,7 @@
 [HIG](https://hi.gold/claim?referrer=gu4temzqguge)|挖矿| |[https://hi.gold](https://hi.gold/claim?referrer=gu4temzqguge)
 [TXT](https://trustdice.win/faucet?ref=gu4temzqguge)|挖矿| |[https://trustdice.win](https://trustdice.win/faucet?ref=gu4temzqguge)
 [JOY](https://www.eosjoy.io?user=gu4temzqguge)|游戏| |[https://www.eosjoy.io](https://www.eosjoy.io?user=gu4temzqguge)
+[TGE](https://www.tgon.games?ref=gu4temzqguge)|博彩| |[https://www.tgon.games](https://www.tgon.games?ref=gu4temzqguge)
 [GT](https://dice.eosget.io/?a=gu4temzqguge)|博彩| |[https://dice.eosget.io](https://dice.eosget.io/?a=gu4temzqguge)
 [BETX](http://betx.fun?ref=gu4temzqguge)|交易|1000+|[http://betx.fun](http://betx.fun?ref=gu4temzqguge)
 [TOB](https://tobet.one?ref=gu4temzqguge)|博彩| |[https://tobet.one](https://tobet.one?ref=gu4temzqguge)
@@ -84,26 +85,6 @@ ChinTai|EOS|自定义|[https://eos.chintai.io](https://eos.chintai.io/?ref=gu4te
 
 ## 区块浏览器
 
-
-# IOST
-
-## 免费糖果
-名称|数量|币种|时间|次数|备注|网址
----|---:|:---|---|:---:|---|---
-[Joy](https://iost.eosjoy.io/?user=gu4temzqguge#/game/)|5|JOY|1天|1|游戏任务签到|[https://iost.eosjoy.io](https://iost.eosjoy.io/?user=gu4temzqguge#/game/)
-[IOST](https://hub.iost.io/register?inviteCode=rJgwBwDPV7)|3|IOST|1天|1|签到|[https://hub.iost.io](https://hub.iost.io/register?inviteCode=rJgwBwDPV7)
-
-## 理财
-网站|币种|利率|网址
----|---|---|---
-LieBi|IOST|1.2%|[https://vote.liebi.com](https://vote.liebi.com/?inviteCode=rJgwBwDPV7)
-
-## 免费注册账号
-名称|备注|网址
----|---|---
-IOST|[TP钱包](https://exchange.wjx.cn/m/36050811.aspx)|[https://exchange.wjx.cn](https://exchange.wjx.cn/m/36050811.aspx)
-IOST|[Cobo钱包](https://webview.cobo.com/growth/candy?c=H30WET&cc=86)|[https://www.cobo.com](https://webview.cobo.com/growth/candy?c=H30WET&cc=86)
-
-
+[IOST糖果](../IOST/readme.md)
 chess,betstream,tobet,pke,jkr,bt,dbet,ept
 
