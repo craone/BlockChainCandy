@@ -10,12 +10,13 @@
 ## 理财
 网站|币种|利率|网址
 ---|---|---|---
-[LieBi](https://vote.liebi.com/?inviteCode=rJgwBwDPV7|IOST|1.2%|[https://vote.liebi.com](https://vote.liebi.com/?inviteCode=rJgwBwDPV7)
+[LieBi](https://vote.liebi.com/?inviteCode=rJgwBwDPV7)|IOST|1.2%|[https://vote.liebi.com](https://vote.liebi.com/?inviteCode=rJgwBwDPV7)
 
 ## 免费注册账号
 名称|备注|网址
 ---|---|---
 IOST|[TP钱包](https://exchange.wjx.cn/m/36050811.aspx)|[https://exchange.wjx.cn](https://exchange.wjx.cn/m/36050811.aspx)
 IOST|[Cobo钱包](https://webview.cobo.com/growth/candy?c=H30WET&cc=86)|[https://www.cobo.com](https://webview.cobo.com/growth/candy?c=H30WET&cc=86)
-IOST|[IOST Account](https://iostaccount.io/create)|[https://iostaccount.io/create](https://iostaccount.io/create)
+IOST|[IOST Account](https://iostaccount.io/create)|[https://iostaccount.io](https://iostaccount.io/create)
+IOST|[IOST ABC](https://iostabc.com/wallet/createaccount)|[https://iostabc.com/create](https://iostabc.com/wallet/createaccount)
 

@@ -5,7 +5,8 @@
 :---:|---:|:---|---|:---:|---|---
 [PraBox](https://chain.pro/candybox/#/?ref=gu4temzqguge)|0.8~50|[选择](https://chain.pro/candybox/#/?ref=moremoneynow)|4小时|1|签到|[https://chain.pro](https://chain.pro/web-prabox/#/?ref=gu4temzqguge)
 [TrustDice](https://trustdice.win/faucet?ref=gu4temzqguge)|0.0005|EOS|6小时|1|签到|[https://trustdice.win](https://trustdice.win/faucet?ref=gu4temzqguge)
-[Enbk](https://enbk.io/candy/info.aspx?id=1&item=1&ref=gu4temzqguge)|1|ENB|6小时|1|签到|[https://enbk.io](https://enbk.io/candy/info.aspx?id=1&item=1&ref=gu4temzqguge)
+[Enbk](https://enbk.io/candy/?ref=gu4temzqguge)|1|ENB|6小时|1|签到|[https://enbk.io](https://enbk.io/candy/?ref=gu4temzqguge)
+[ADM](https://www.adms.store/?ref=gu4temzqguge)|3|ADM|2小时|1|签到|[https://www.adms.store](https://www.adms.store/?ref=gu4temzqguge)
 [BingoBet](https://bingobet.one/?ref=gu4temzqguge#/luckydraw)|0.0005|EOS|1天|1|抽奖|[https://bingobet.one](https://bingobet.one/?ref=gu4temzqguge#/luckydraw)
 [EosABC](https://www.eosabc.io/?ref=gu4temzqguge)|0.0002|EOS|1天|1|抽奖|[https://www.eosabc.io](https://www.eosabc.io/?ref=gu4temzqguge)
 [EosJoy](https://eosjoy.io/?user=gu4temzqguge#/game/)|5|JOY|1天|1|游戏任务签到|[https://eosjoy.io](https://eosjoy.io/?user=gu4temzqguge#/game/)
@@ -16,6 +17,7 @@
 [WhaleEx](https://ym.whaleex.com.cn/whaleEx/dash/login?inviteCode=U-DHy)|0.5~10|随机|8小时|1|APP签到|[https://ym.whaleex.com.cn](https://ym.whaleex.com.cn/whaleEx/dash/login?inviteCode=U-DHy)
 [KCash](https://redpacket.hardlink.ren/candy-index.html?symbol=ETH&iconurl=https%3A%2F%2Fapi2.kcash.com%2Ficons%2F3x%2FDISCOVERY%2Fcandy-kcash.png&amount=0&lang=en&token=faee5d0ead574e96a59e74443922c201#/)|0.8~50|随机|9,10,18,19,20|3|KCash APP 签到|[https://redpacket.hardlink.ren](https://redpacket.hardlink.ren/candy-index.html?symbol=ETH&iconurl=https%3A%2F%2Fapi2.kcash.com%2Ficons%2F3x%2FDISCOVERY%2Fcandy-kcash.png&amount=0&lang=en&token=faee5d0ead574e96a59e74443922c201#/)
 [More.One](https://myeoscandy.com/register.html?invite_code=688b7ea7)|0.8~50|选择|1天|1|签到|[https://myeoscandy.com](https://myeoscandy.com/register.html?invite_code=688b7ea7)
+[Vip Wallet](https://api.vipwallet.tech/invite/?inviterId=187)|1~8|Vip|1天|1|签到|[https://vipwallet.tech](https://api.vipwallet.tech/invite/?inviterId=187)
 [HIG](https://hi.gold/claim?referrer=gu4temzqguge)|10|HIG|1次|1|签到|[https://hi.gold](https://hi.gold/claim?referrer=gu4temzqguge)
 [BuckBWallet](https://b.a.5d7rm.cn/?hbUuid=dec10a037cbf45c591f981148ce5d6e9&share_id=anonymoususe)|0.09|EOS|1次|1|APP绑定|[https://www.buckwallet.vip](https://b.a.5d7rm.cn/?hbUuid=dec10a037cbf45c591f981148ce5d6e9&share_id=anonymoususe)
 [LoreFree](http://ebook.lorefree.com/?ref=gu4temzqguge)|10|LF|20天|1|登录|[http://ebook.lorefree.com](http://ebook.lorefree.com/?ref=gu4temzqguge)
