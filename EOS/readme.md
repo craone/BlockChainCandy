@@ -8,7 +8,7 @@
 [Enbk](https://enbk.io/candy/?ref=gu4temzqguge)|1|ENB|6小时|1|签到|[https://enbk.io](https://enbk.io/candy/?ref=gu4temzqguge)
 [ADM](https://www.adms.store/?ref=gu4temzqguge)|3|ADM|2小时|1|签到|[https://www.adms.store](https://www.adms.store/?ref=gu4temzqguge)
 [BingoBet](https://bingobet.one/?ref=gu4temzqguge#/luckydraw)|0.0005|EOS|1天|1|抽奖|[https://bingobet.one](https://bingobet.one/?ref=gu4temzqguge#/luckydraw)
-[EosABC](https://www.eosabc.io/?ref=gu4temzqguge)|0.0002|EOS|1天|1|抽奖|[https://www.eosabc.io](https://www.eosabc.io/?ref=gu4temzqguge)
+[EosABC](https://www.eosabc.io/?ref=gu4temzqguge)|0.0002|EOS|24小时|1|抽奖|[https://www.eosabc.io](https://www.eosabc.io/?ref=gu4temzqguge)
 [EosJoy](https://eosjoy.io/?user=gu4temzqguge#/game/)|5|JOY|1天|1|游戏任务签到|[https://eosjoy.io](https://eosjoy.io/?user=gu4temzqguge#/game/)
 [Enbk](https://enbk.io/sign/?ref=gu4temzqguge)|1|ENB|1天|1|签到|[https://enbk.io](https://enbk.io/sign/?ref=gu4temzqguge)
 [DHB](https://dhb.one/dragontiger?referrer=gu4temzqguge)|18|DHB|1天|1|签到提币|[https://dhb.one](https://dhb.one/?referrer=gu4temzqguge)
@@ -74,6 +74,7 @@ ChinTai|EOS|自定义|[https://eos.chintai.io](https://eos.chintai.io/?ref=gu4te
 ---|:---:|---
 [MurMur](https://murmurdapp.com/?inviter=gu4temzqguge&lan=zh)| |[https://murmurdapp.com](https://murmurdapp.com/?inviter=gu4temzqguge&lan=zh)
 [EOS Kngihts](https://eosknights.io/?inviter=gu4temzqguge)|每天前100名|[https://eosknights.io](https://eosknights.io/?inviter=gu4temzqguge)
+[Cobo钱包](https://webview.cobo.com/growth/candy?c=H30WET)|每天前100名|[https://webview.cobo.com](https://webview.cobo.com/growth/candy?c=H30WET)
 [~~EosABC~~](https://wallet.eosabc.io/recommend.html?inviter=gu4temzqguge&lan=zh)| 已结束 |[~~https://wallet.eosabc.io~~](https://wallet.eosabc.io/recommend.html?inviter=gu4temzqguge&lan=zh)
 [~~BuckBWallet~~](https://www.buckwallet.vip)|已结束|[~~https://www.buckwallet.vip~~](https://www.buckwallet.vip)
 
